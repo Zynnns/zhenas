@@ -18,31 +18,31 @@ zenz: 'https://zenzapis.xyz',
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
 //gausah di apa² in, udah free apikey :)
-'https://zenzapis.xyz': 'BagasPrdn',
+'https://zenzapis.xyz': 'bagasganz',
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['62895345145330','6285217165713','62895345145330'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['62895345145330'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '62895345145330' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['62895345145330','62895345145330','62895345145330'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'BAR' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Zhen-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'ZHEN' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Bar' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Zhen-md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Bar' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCUy_V2GtyReLJ2FWRYrLxBw'
 global.ig = 'https://instagram.com/parapencarimemers'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/Zhen'
-global.email = 'bengkabb@gmail.com'
+global.mygc = 'https://chat.whatsapp.com/IAdYma8TdlOJ9sc4FFwzIQ'
+global.myweb = 'https://s.id/Zhenbot'
+global.email = 'zhenbars@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© Zhen-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'BAR' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.author = 'Bar' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -58,7 +58,7 @@ free: 15,
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
 global.thumb = fs.readFileSync('./image/chika.jpg')
-global.veloriy = fs.readFileSync('./image/chika.mp4')
+/*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
@@ -73,7 +73,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //—————「 Set Prefix 」—————//
 //gausah di apa² in!
-global.prefa = ['#','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🐤','🗿']
 
 //—————「 Set Simbol 」—————//
 //terserah mai ubah atau nggak, note : tanda ' gausah di hapus!
